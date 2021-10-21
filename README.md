@@ -1,1 +1,1 @@
-# Payment_Gateway_Inyegration
+# Payment_Gateway_Integration
